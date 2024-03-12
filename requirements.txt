@@ -1,0 +1,5 @@
+pandas
+requests
+beautifulsoup4
+langdetect
+html5lib

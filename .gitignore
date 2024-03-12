@@ -1,0 +1,4 @@
+activate
+.ipyn*
+__pyca*
+*.swp
